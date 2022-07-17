@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=IMG-20220717-WA0054.jpg>
+  [![Maduranga](<img src=IMG-20220717-WA0054.jpg>
  https://github.com/Richuser_b1 |  
 ----|
-[Its_me_Richu](https://github.com/Richuser_b1)  |
+[Its_me_Maduranga](https://github.com/Maduwa_B2)  |
 Base, Bug Fixes, Modules | 
   
     
